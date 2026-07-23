@@ -7,7 +7,22 @@
 </p>
 
 > Repositorio del **Taller #1 de CSS**. Reune la solucion de tres juegos
-> interactivos disenados para dominar distintas tecnicas de maquetacion.
+> interactivos disenados para dominar, de forma progresiva y practica, las
+> principales tecnicas de maquetacion y estilizado con CSS.
+
+---
+
+## Proposito del taller
+
+El objetivo de este taller es afianzar los fundamentos de CSS a traves del
+aprendizaje basado en juegos. En lugar de estudiar la teoria de forma aislada,
+cada juego plantea retos concretos que obligan a aplicar una propiedad o
+concepto para superar un nivel. De esta manera se refuerza tanto la
+comprension como la memoria muscular del codigo.
+
+Al completar los tres retos se logra un dominio solido de las tres grandes
+areas de la maquetacion moderna: **seleccion de elementos**, **distribucion
+en una dimension (Flexbox)** y **distribucion en dos dimensiones (Grid)**.
 
 ---
 
