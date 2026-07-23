@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/Estado-Completado-success?style=for-the-badge" alt="Estado">
 </p>
 
-> Repositorio del **Taller #1 de CSS**. Reune la solucion de tres juegos
+> Repositorio del Taller #1 de CSS. Reune la solucion de tres juegos
 > interactivos disenados para dominar, de forma progresiva y practica, las
 > principales tecnicas de maquetacion y estilizado con CSS.
 
@@ -21,11 +21,12 @@ concepto para superar un nivel. De esta manera se refuerza tanto la
 comprension como la memoria muscular del codigo.
 
 Al completar los tres retos se logra un dominio solido de las tres grandes
-areas de la maquetacion moderna: **seleccion de elementos**, **distribucion
-en una dimension (Flexbox)** y **distribucion en dos dimensiones (Grid)**.
+areas de la maquetacion moderna: seleccion de elementos, distribucion en una
+dimension con Flexbox y distribucion en dos dimensiones con Grid.
 
 ---
 
+## Organizacion por ramas
 ## Organizacion por ramas
 <img width="798" height="160" alt="imagen" src="https://github.com/user-attachments/assets/08301677-5545-494d-9c37-f9a546e5d7c3" />
 
