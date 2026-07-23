@@ -27,3 +27,5 @@ en una dimension (Flexbox)** y **distribucion en dos dimensiones (Grid)**.
 ---
 
 ## Organizacion por ramas
+<img width="798" height="160" alt="imagen" src="https://github.com/user-attachments/assets/08301677-5545-494d-9c37-f9a546e5d7c3" />
+
